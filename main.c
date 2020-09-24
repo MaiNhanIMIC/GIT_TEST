@@ -2,5 +2,5 @@
 
 void main()
 {
-	printf("xin chao\r\n");
+	printf("hello\r\n");
 }
