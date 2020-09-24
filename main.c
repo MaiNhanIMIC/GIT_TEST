@@ -2,5 +2,5 @@
 
 void main()
 {
-	printf("chao\r\n");
+	printf("chao moi nguoi\r\n");
 }
