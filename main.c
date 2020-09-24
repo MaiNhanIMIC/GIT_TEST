@@ -2,4 +2,4 @@
 
 void main()
 {
-	printf("\r\n");
+	printf("hiiiii\r\n");
