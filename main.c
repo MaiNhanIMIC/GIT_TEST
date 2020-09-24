@@ -2,4 +2,4 @@
 
 void main()
 {
-	printf("Guten Tag\r\n");
+	printf("Guten tag\r\n");
