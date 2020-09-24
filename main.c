@@ -2,5 +2,4 @@
 
 void main()
 {
-	printf("hello\r\n");
-}
+	printf("chao moi nguoi - hello\r\n");
