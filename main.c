@@ -2,5 +2,5 @@
 
 void main()
 {
-	printf("xin chao the gioi\r\n");
+	printf("konnichiwa\r\n");
 }
