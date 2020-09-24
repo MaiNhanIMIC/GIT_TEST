@@ -2,5 +2,5 @@
 
 void main()
 {
-	printf("konnichiwa\r\n");
+	printf("hello\r\n");
 }
